@@ -11,8 +11,17 @@ A simple and colorful To-Do List application built with React for the frontend a
 ## Screenshots
 
 <!-- Add your screenshots here -->
-<!-- ![Screenshot 1](path/to/screenshot1.png) -->
-<!-- ![Screenshot 2](path/to/screenshot2.png) -->
+### Inital page
+<img src="https://github.com/Nikitakandwal/to-do-react/assets/98966392/c9e4ddac-1462-407d-b067-8f1f1af5c415" alt="Screenshot 2024-05-25 091252" width="500">
+
+### Add Task
+<img src="https://github.com/Nikitakandwal/to-do-react/assets/98966392/164040bb-63ea-4559-aea9-e0c8291fff21" alt="Screenshot 2024-05-25 091309" width="500">
+
+### Save Task
+<img src="https://github.com/Nikitakandwal/to-do-react/assets/98966392/6a4f6d7d-72e0-4f34-865e-83f67b1a28f4" alt="Screenshot 2024-05-25 091432" width="500">
+
+### Display of added task
+<img src="https://github.com/Nikitakandwal/to-do-react/assets/98966392/d2f3afce-6265-4cc0-a2a0-23f2a176b577" alt="Screenshot 2024-05-25 091443" width="500">
 
 ## Installation
 
