@@ -51,7 +51,7 @@ Open a new terminal window/tab.
 Navigate to the frontend directory:
 
 ```sh 
-cd ../todo-list
+cd frontend
 ```
 Install dependencies:
 
